@@ -1,0 +1,10 @@
+﻿name = "PureChatX"
+version = "1.0.0"
+api = "6.0.0"
+main = 'Mellooh\PureChatX\PCX'
+author = "Mellooh"
+description = "Fully customizable chat formatting plugin powered by PurePermsX"
+depend = ["PurePermsX"]
+
+[permissions."pcx.use"]
+default = "op"
